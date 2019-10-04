@@ -1,4 +1,4 @@
 # MachineLeaningPersonalUniversity
-This is a road map of my personal University
+This is a road map of my personal University.
 
   
