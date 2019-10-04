@@ -3,9 +3,9 @@ This is a road map of my personal way to know Machine Learning and Python relate
 
 **Issues**
 
-- 'Checklist' is something to know how we are doing on our road.
+- 'Checklist' is something to know how I'm doing on my road.
 
-- 'AllUsefullContent' bring some usefull websites that I want to share.
+- 'AllUsefullContent' bring some usefull websites that I want to share and save.
 
 - 'PersonalSchedule' this is just a place to put fast clicks.
 
