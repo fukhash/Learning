@@ -3,7 +3,7 @@ This is a road map of my personal way to know Machine Learning and Python relate
 
 **Issues**
 
-- _'Checklist'_ is something to know how I'm doing on my road.
+- _'Checklist'_ is a markbox so I can vizualize what is going on with my journey.
 
 - _'AllUsefullContent'_ bring some usefull websites that I want to share and save.
 
