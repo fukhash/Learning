@@ -1,5 +1,5 @@
-# MachineLeaningPersonalUniversity
-This is a road map of my personal way to know Machine Learning and Python related programming knowledges.
+# PersonalUniversity
+This is a road map of my personal way to know about Computer Science knowledges.
 
 **Issues**
 
