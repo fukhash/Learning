@@ -1,13 +1,13 @@
-# PersonalUniversity
-This is a road map of my personal way to know about Computer Science knowledges.
+# Usefull contents about Computer Science
+
+Here is a bunch of stuff that I'm stacking up so I can save for the future studies.
 
 **Issues**
 
-- _'Checklist'_ is a markbox so I can vizualize what is going on with my journey.
+- _'Checklist'_ A markbox so I can vizualize what is going on.
 
-- _'AllUsefullContent'_ bring some usefull websites that I want to share and save.
+- _'AllUsefullContent'_ Usefull websites that I want to save.
 
-- _'PersonalSchedule'_ this is just a place to put fast clicks.
 
 **Projects**
 
