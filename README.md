@@ -1,6 +1,6 @@
 # Usefull contents about Computer Science
 
-Here is a bunch of stuff that I'm stacking up so I can save for the future studies.
+Here is a bunch of stuff that I'm stacking up for future studies.
 
 **Issues**
 
